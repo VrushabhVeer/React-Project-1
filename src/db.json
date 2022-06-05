@@ -1,0 +1,582 @@
+{
+  "mensData":[
+    {
+      "id": 1,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211013/uqO3/616622b1f997ddf8f1cd31ca/dillinger_green_colourblock_crew-_neck_t-shirt.jpg",
+      "brand": "DILLINGER",
+      "nameCls": "Colourblock Crew- Neck T-shirt",
+      "price": "587",
+      "orginalPrice": "1,249",
+      "discount": "(53% off)"
+    },
+    {
+      "id": 2,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220120/qiRq/61e98217aeb2695cdd2244f1/performax_blue_heathered_crew-neck_t-shirt.jpg",
+      "brand": "PERFORMAX",
+      "nameCls": "Heathered Crew-Neck T-shirt",
+      "price": "329",
+      "orginalPrice": "599",
+      "discount": "(45% off)"
+    },
+    {
+      "id": 3,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220125/5ENA/61eef659aeb2695cdd2acae0/performax_black_fastdry_active_crew-neck_t-shirt.jpg",
+      "brand": "PERFORMAX",
+      "nameCls": "Fastdry Active Crew-Neck T-shirt",
+      "price": "324",
+      "orginalPrice": "499",
+      "discount": "(35% off)"
+    },
+    {
+      "id": 4,
+      "image": "https://assets.ajio.com/medias/sys_master/root/hc4/h66/10247899349022/dnmx_green_polo_t-shirt_with_signature_branding.jpg",
+      "brand": "DNMX",
+      "nameCls": "Polo T-shirt with Signature Branding",
+      "price": "399",
+      "orginalPrice": "499",
+      "discount": "(20% off)"
+    },
+    {
+      "id": 5,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211123/v3rK/619c0a28aeb2690110d1a660/performax_dark_grey_panelled_crew-neck_t-shirt.jpg",
+      "brand": "PERFORMAX",
+      "nameCls": "Panelled Crew-Neck T-shirt",
+      "price": "274",
+      "orginalPrice": "499",
+      "discount": "(45% off)"
+    },
+    {
+      "id": 6,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210403/Wuzt/60685ee7aeb269a9e330f4c3/dillinger_blue_striped_regular_fit_t-shirt.jpg",
+      "brand": "DILLINGER",
+      "nameCls": "Striped Regular Fit T-shirt",
+      "price": "423",
+      "orginalPrice": "899",
+      "discount": "(53% off)"
+    },
+    {
+      "id": 7,
+      "image": "https://assets.ajio.com/medias/sys_master/root/h3f/h3c/10247921172510/dnmx_turquoise_blue_polo_t-shirt_with_signature_branding.jpg",
+      "brand": "DNMX",
+      "nameCls": "Polo T-shirt with Signature Branding",
+      "price": "399",
+      "orginalPrice": "499",
+      "discount": "(20% off)"
+    },
+    {
+      "id": 8,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220120/lvqN/61e97fd6f997dd66232f1cfb/performax_pink_heathered_crew-neck_t-shirt.jpg",
+      "brand": "PERFORMAX",
+      "nameCls": "Heathered Crew-Neck T-shirt",
+      "price": "329",
+      "orginalPrice": "599",
+      "discount": "(45% off)"
+    },
+    {
+      "id": 9,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220125/PQGG/61eef764f997dd662337fd2b/netplay_white_striped_button-down_t-shirt.jpg",
+      "brand": "NETPLAY",
+      "nameCls": "Striped Button-Down T-shirt",
+      "price": "559",
+      "orginalPrice": "699",
+      "discount": "(20% off)"
+    },
+    {
+      "id": 10,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220120/lLur/61e981aef997dd66232f47bb/performax_grey_heathered_crew-neck_t-shirt.jpg",
+      "brand": "PERFORMAX",
+      "nameCls": "Heathered Crew-Neck T-shirt",
+      "price": "329",
+      "orginalPrice": "599",
+      "discount": "(45% off)"
+    },
+    {
+      "id": 11,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210709/DJIT/60e76e76f997ddb312218de1/campus_sutra_blue_colourblock_crew-neck_t-shirt.jpg",
+      "brand": "Campus Sutra",
+      "nameCls": "Colourblock Crew-Neck T-shirt",
+      "price": "418",
+      "orginalPrice": "949",
+      "discount": "(56% off)"
+    },
+    {
+      "id": 12,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220309/inTn/6227b81faeb26921afcde581/netplay_white_checked_polo_t-shirt.jpg",
+      "brand": "NETPLAY",
+      "nameCls": "Checked Polo T-shirt",
+      "price": "559",
+      "orginalPrice": "699",
+      "discount": "(20% off)"
+    },
+    {
+      "id": 13,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220309/inTn/6227b81faeb26921afcde581/netplay_white_checked_polo_t-shirt.jpg",
+      "brand": "PERFORMAX",
+      "nameCls": "Fastdry Active Crew-Neck T-shirt",
+      "price": "324",
+      "orginalPrice": "499",
+      "discount": "(35% off)"
+    },
+    {
+      "id": 14,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220301/eVU3/621e376baeb26921afbf077d/netplay_multicoloured_striped_polo_t-shirt.jpg",
+      "brand": "NETPLAY",
+      "nameCls": "Striped Polo T-shirt",
+      "price": "559",
+      "orginalPrice": "699",
+      "discount": "(20% off)"
+    },
+    {
+      "id": 15,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220301/DDoY/621e35edaeb26921afbf0072/netplay_olive_leaf_print_polo_t-shirt.jpg",
+      "brand": "NETPLAY",
+      "nameCls": "Leaf Print Polo T-shirt",
+      "price": "559",
+      "orginalPrice": "699",
+      "discount": "(20% off)"
+    },
+    {
+      "id": 16,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220125/V8y5/61eefb7eaeb2695cdd2adebc/performax_olive_fastdry_active_crew-neck_t-shirt.jpg",
+      "brand": "PERFORMAX",
+      "nameCls": "Fastdry Active Crew-Neck T-shirt",
+      "price": "324",
+      "orginalPrice": "499",
+      "discount": "(35% off)"
+    },
+    {
+      "id": 17,
+      "image": "https://assets.ajio.com/medias/sys_master/root/hb3/hb4/15590223740958/teamspirit_maroon_heathered_polo_t-shirt.jpg",
+      "brand": "Teamspirit",
+      "nameCls": "Heathered Polo T-shirt",
+      "price": "503",
+      "orginalPrice": "599",
+      "discount": "(16% off)"
+    },
+    {
+      "id": 18,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210403/1V0O/606861eff997dd7b645d1800/dillinger_navy_blue_crew-neck_t-shirt_with_contrast_taping.jpg",
+      "brand": "DILLINGER",
+      "nameCls": "Crew-Neck T-shirt with Contrast Taping",
+      "price": "576",
+      "orginalPrice": "1,199",
+      "discount": "(52% off)"
+    },
+    {
+      "id": 19,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210403/5no4/60686091aeb269a9e33111c9/dillinger_blue_colourblock_crew-neck_t-shirt.jpg",
+      "brand": "DILLINGER",
+      "nameCls": "Colourblock Crew-Neck T-shirt",
+      "price": "476",
+      "orginalPrice": "899",
+      "discount": "(47% off)"
+    },
+    {
+      "id": 20,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220120/S8p0/61e98248aeb2695cdd22483f/performax_teal_panelled_crew-neck_t-shirt.jpg",
+      "brand": "PERFORMAX",
+      "nameCls": "Panelled Crew-Neck T-shirt",
+      "price": "274",
+      "orginalPrice": "499",
+      "discount": "(45% off)"
+    },
+    {
+      "id": 21,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211019/U4It/616dda2eaeb26901109a9267/teamspirit_navy_blue_core_varsity_polo_t-shirt_with_contrast_tipping.jpg",
+      "brand": "Teamspirit",
+      "nameCls": "Core Varsity Polo T-shirt with Contrast Tipping",
+      "price": "419",
+      "orginalPrice": "499",
+      "discount": "(16% off)"
+    },
+    {
+      "id": 22,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211103/uiiT/61818e88aeb2690110b76677/teamspirit_ecru_white_crew-neck_t-shirt_with_thumbhole_sleeves.jpg",
+      "brand": "Teamspirit",
+      "nameCls": "Crew-Neck T-shirt with Thumbhole Sleeves",
+      "price": "587",
+      "orginalPrice": "699",
+      "discount": "(16% off)"
+    },
+    {
+      "id": 23,
+      "image": "https://assets.ajio.com/medias/sys_master/root/h34/he3/12588366692382/performax_black_panelled_crew-neck_t-shirt.jpg",
+      "brand": "PERFORMAX",
+      "nameCls": "Panelled Crew-Neck T-shirt",
+      "price": "274",
+      "orginalPrice": "499",
+      "discount": "(45% off)"
+    },
+    {
+      "id": 24,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210709/LI7n/60e79a30f997ddb312226e0d/campus_sutra_green_ombre-dyed_henley_t-shirt.jpg",
+      "brand": "Campus Sutra",
+      "nameCls": "Ombre-Dyed Henley T-shirt",
+      "price": "476",
+      "orginalPrice": "899",
+      "discount": "(47% off)"
+    },
+    {
+      "id": 25,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220414/i4UD/62580776aeb26921af21478c/stellers_green_slim_fit_polo_t-shirt.jpg",
+      "brand": "Stellers",
+      "nameCls": "Slim Fit Polo T-shirt",
+      "price": "720",
+      "orginalPrice": "1,999",
+      "discount": "(64% off)"
+    },
+    {
+      "id": 26,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220301/BoEq/621e35f7aeb26921afbf0108/netplay_white_floral_print_cotton_polo_t-shirt.jpg",
+      "brand": "NETPLAY",
+      "nameCls": "Floral Print Cotton Polo T-shirt",
+      "price": "559",
+      "orginalPrice": "699",
+      "discount": "(20% off)"
+    },
+    {
+      "id": 27,
+      "image": "https://assets.ajio.com/medias/sys_master/root/hd9/h52/13493043658782/teamspirit_olive_green_heathered_crew-neck_t-shirt.jpg",
+      "brand": "Teamspirit",
+      "nameCls": "Heathered Crew-Neck T-shirt",
+      "price": "335",
+      "orginalPrice": "399",
+      "discount": "(16% off)"
+    },
+    {
+      "id": 28,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220322/b1UJ/6238d007f997dd03e224340e/netplay_blue_%26_white_striped_polo_t-shirt_with_cut-away_collar.jpg",
+      "brand": "NETPLAY",
+      "nameCls": "Striped Polo T-shirt with Cut-Away Collar",
+      "price": "559",
+      "orginalPrice": "699",
+      "discount": "(20% off)"
+    },
+    {
+      "id": 29,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220330/OMFS/62436e68f997dd03e23a94b8/dillinger_grey_typographic_print_crew-neck_t-shirt.jpg",
+      "brand": "DILLINGER",
+      "nameCls": "Typographic Print Crew-Neck T-shirt",
+      "price": "476",
+      "orginalPrice": "1,399",
+      "discount": "(66% off)"
+    },
+    {
+      "id": 30,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220120/cOKW/61e98315f997dd66232f62ed/performax_grey_heathered_crew-neck_t-shirt.jpg",
+      "brand": "PERFORMAX",
+      "nameCls": "Heathered Crew-Neck T-shirt",
+      "price": "329",
+      "orginalPrice": "599",
+      "discount": "(45% off)"
+    },
+    {
+      "id": 31,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220125/ljAP/61eeffc1f997dd6623382302/netplay_red_striped_button-down_t-shirt.jpg",
+      "brand": "NETPLAY",
+      "nameCls": "Striped Button-Down T-shirt",
+      "price": "559",
+      "orginalPrice": "699",
+      "discount": "(20% off)"
+    },
+
+    {
+      "id": 32,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210709/ECaC/60e79a08aeb269a9e33ea6d9/campus_sutra_grey_ombre-dyed_henley_t-shirt.jpg",
+      "brand": "CAMPUS SUTRA",
+      "nameCls": "Ombre-Dyed Henley T-shirt",
+      "price": "459",
+      "orginalPrice": "699",
+      "discount": "(20% off)"
+    }
+  ], "womensData": [
+    {
+      "id": 1,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210923/04A0/614bac00f997ddce89d93c51/kvs_fab_olive_green_embellished_anarkali_kurta.jpg",
+      "brand": "KVS FAB",
+      "nameCls": "Embellished Anarkali Kurta",
+      "price": "2,236",
+      "orginalPrice": "4,299",
+      "discount": "(48% off)"
+    },
+    {
+      "id": 2,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211005/5558/615b9aabaeb2692b85a59e10/shewill_cream_embroidered_straight_kurta_set_with_dupatta.jpg",
+      "brand": "SHEWILL",
+      "nameCls": "Embroidered Straight Kurta Set with Dupatta",
+      "price": "1,927",
+      "orginalPrice": "3,212",
+      "discount": "(40% off)"
+    },
+    {
+      "id": 3,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220107/8BhM/61d75260f997dd662313585b/anubhutee_blue_indian__anarkali_kurta_set.jpg",
+      "brand": "ANUBHUTEE",
+      "nameCls": "Indian  Anarkali Kurta Set",
+      "price": "1,710",
+      "orginalPrice": "4,499",
+      "discount": "(62% off)"
+    },
+    {
+      "id": 4,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210906/k6dd/613645af7cdb8cb824198b0e/teamspirit_black_straight_track_pants_with_drawstring_waist.jpg",
+      "brand": "Teamspirit",
+      "nameCls": "Straight Track Pants with Drawstring Waist",
+      "price": "350",
+      "orginalPrice": "699",
+      "discount": "(50% off)"
+    },
+    {
+      "id": 5,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220531/QiyM/62963846f997dd03e250cf3f/anubhutee_light_green_floral_print_straight_kurta_set.jpg",
+      "brand": "ANUBHUTEE",
+      "nameCls": "Floral Print Straight Kurta Set",
+      "price": "888",
+      "orginalPrice": "2,399",
+      "discount": "(63% off)"
+    },
+    {
+      "id": 6,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220117/ig1s/61e55e95f997dd662324fde6/gulmohar_jaipur_navy_embellished_a-line_kurta_sets.jpg",
+      "brand": "GULMOHAR JAIPUR",
+      "nameCls": "Embellished A-line Kurta Sets",
+      "price": "1,043",
+      "orginalPrice": "2,299",
+      "discount": "(55% off)"
+    },
+    {
+      "id": 7,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210830/cyER/612cf8697cdb8cb8240c45dc/avaasa_mix_n%27_match_magenta_jaipuri_print_angrakha_kurta_with_tie-up.jpg",
+      "brand": "ALDO",
+      "nameCls": "Textured Jaipuri Kurta",
+      "price": "8,999",
+      "orginalPrice": "10000",
+      "discount": "(44% off)"
+    },
+    {
+      "id": 8,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220315/gu39/622fb55baeb26921afd8ef9a/kimayra_fushcia_printed_kurta_suit_set.jpg",
+      "brand": "Kimayra",
+      "nameCls": "Printed Kurta Suit Set",
+      "price": "1,399",
+      "orginalPrice": "2,499",
+      "discount": "(44% off)"
+    },
+    {
+      "id": 9,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211022/n8RD/6172e18baeb2690110a38873/avaasa_mix_n%27_match_navy_blue_checked_sleeveless_straight_kurta_with_dipped_hem.jpg",
+      "brand": "AVAASA MIX N' MATCH",
+      "nameCls": "Checked Sleeveless Straight Kurta with Dipped Hem",
+      "price": "392",
+      "orginalPrice": "799",
+      "discount": "(51% off)"
+    },
+    {
+      "id": 10,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220519/QzAc/62861166aeb26921afa7c321/gosriki_maroon_straight_kurta_set_with_dupatta.jpg",
+      "brand": "GOSRIKI",
+      "nameCls": "Straight Kurta Set with Dupatta",
+      "price": "720",
+      "orginalPrice": "3,599",
+      "discount": "(80% off)"
+    },
+    {
+      "id": 11,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210706/4NJY/60e36379f997ddb3121b974e/avaasa_mix_n%27_match_blue_printed_sleeveless_a-line_kurta.jpg",
+      "brand": "AVAASA MIX N' MATCH",
+      "nameCls": "Printed Sleeveless A-line Kurta",
+      "price": "441",
+      "orginalPrice": "899",
+      "discount": "(51% off)"
+    },
+    {
+      "id": 12,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211005/gCj8/615b5a03f997ddce89f5e6f1/avaasa_mix_n%27_match_grey_printed_sleeveless_straight_kurta.jpg",
+      "brand": "AVAASA MIX N' MATCH",
+      "nameCls": "Printed Sleeveless Straight Kurta",
+      "price": "392",
+      "orginalPrice": "799",
+      "discount": "(51% off)"
+    },
+    {
+      "id": 13,
+      "image": "https://assets.ajio.com/medias/sys_master/root/he3/hef/14457429393438/avaasa_mix_n%27_match_white_ankle-length_leggings_with_elasticated_waist.jpg",
+      "brand": "AVAASA MIX N' MATCH",
+      "nameCls": "Ankle-Length Leggings with Elasticated Waist",
+      "price": "399",
+      "orginalPrice": "699",
+      "discount": "(44% off)"
+    },
+    {
+      "id": 14,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220208/2OTi/62016717aeb26921af8d4439/gulmohar_jaipur_indigo_floral_print_anarkali_kurta.jpg",
+      "brand": "GULMOHAR JAIPUR",
+      "nameCls": "Floral Print Anarkali Kurta",
+      "price": "787",
+      "orginalPrice": "1,799",
+      "discount": "(56% off)"
+    },
+    {
+      "id": 15,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211012/JemP/61648a45aeb2692b85cb6563/shewill_pink_embroidered_straight_kurta_set_with_dupatta_.jpg",
+      "brand": "SHEWILL",
+      "nameCls": "Embroidered Straight Kurta Set with Dupatta",
+      "price": "1,927",
+      "orginalPrice": "3,212",
+      "discount": "(40% off)"
+    },
+    {
+      "id": 16,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220124/zTEx/61eeac9bf997dd6623379e6d/gulmohar_jaipur_teal_floral_print_flared_kurta_set.jpg",
+      "brand": "GULMOHAR JAIPUR",
+      "nameCls": "Floral Print Flared Kurta Set",
+      "price": "1,311",
+      "orginalPrice": "2,499",
+      "discount": "(48% off)"
+    },
+    {
+      "id": 17,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211202/751C/61a7eb53f997ddf8f12d7dde/avaasa_mix_n%27_match_navy_blue_printed_straight_kurta_with_embroidery.jpg",
+      "brand": "PERFORMAX",
+      "nameCls": "Fastdry Active Essential Kurta",
+      "price": "419",
+      "orginalPrice": "599",
+      "discount": "(30% off)"
+    },
+    {
+      "id": 18,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210903/ftLo/6132393aaeb269a26889549b/avaasa_mix_n%27_match_red_floral_print_sleeveless_a-line_kurta.jpg",
+      "brand": "AVAASA MIX N' MATCH",
+      "nameCls": "Floral Print Sleeveless A-line Kurta",
+      "price": "441",
+      "orginalPrice": "899",
+      "discount": "(51% off)"
+    },
+    {
+      "id": 19,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220304/rq9l/62211004f997dd03e2009d96/dnmx_blue_lightly_washed_%26_distressed_slim_fit_jeans.jpg",
+      "brand": "DNMX",
+      "nameCls": "Lightly Washed & Distressed Slim Fit Jeans",
+      "price": "1,104",
+      "orginalPrice": "1,299",
+      "discount": "(15% off)"
+    },
+    {
+      "id": 20,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210525/GHh9/60ad186eaeb269a9e3c8b270/teamspirit_wine_printed_joggers_with_elasticated_waistband.jpg",
+      "brand": "Teamspirit",
+      "nameCls": "Printed Joggers with Elasticated Waistband",
+      "price": "343",
+      "orginalPrice": "699",
+      "discount": "(51% off)"
+    },
+    {
+      "id": 21,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220310/eRjN/6228f614f997dd03e209ee9f/dnmx_yellow_%26_white_tie_%26_dye_crew-neck_t-shirt.jpg",
+      "brand": "DNMX",
+      "nameCls": "Tie & Dye Crew-Neck T-shirt",
+      "price": "319",
+      "orginalPrice": "399",
+      "discount": "(20% off)"
+    },
+    {
+      "id": 22,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211221/Hj8M/61c0f503aeb269011014959a/anubhutee_burgundy_printed_kurta_set_with_dupatta_.jpg",
+      "brand": "ANUBHUTEE",
+      "nameCls": "Printed Kurta Set With Dupatta",
+      "price": "1,591",
+      "orginalPrice": "3,699",
+      "discount": "(57% off)"
+    },
+    {
+      "id": 23,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210810/LZXe/611184fff997ddce8997fd5a/avaasa_mix_n%27_match_black_block_print_buton-down_straight_kurta.jpg",
+      "brand": "AVAASA MIX N' MATCH",
+      "nameCls": "Block Print Buton-Down Straight Kurta",
+      "price": "424",
+      "orginalPrice": "499",
+      "discount": "(15% off)"
+    },
+    {
+      "id": 24,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211020/O81m/616f2621f997ddf8f1db525b/avaasa_mix_n%27_match_coral_pink_micro_print_flared_kurta_with_notched_band_collar.jpg",
+      "brand": "AVAASA MIX N' MATCH",
+      "nameCls": "Micro Print Flared Kurta with Notched Band Collar",
+      "price": "490",
+      "orginalPrice": "999",
+      "discount": "(51% off)"
+    },
+    {
+      "id": 25,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220419/oKta/625dd709aeb26921af2a1d1a/kvs_fab_purple_embellished_lehenga_choli_set.jpg",
+      "brand": "KVS FAB",
+      "nameCls": "Embellished Lehenga Choli Set",
+      "price": "2,579",
+      "orginalPrice": "7,369",
+      "discount": "(65% off)"
+    },
+    {
+      "id": 26,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210621/bjRe/60d0ae05f997ddb312e2e093/fig_olive_green_mid-rise_ankle-length_jeggings.jpg",
+      "brand": "DNMX",
+      "nameCls": "Mid-Rise Jeggins",
+      "price": "639",
+      "orginalPrice": "799",
+      "discount": "(20% off)"
+    },
+    {
+      "id": 27,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211217/o5PJ/61bcad29f997ddf8f1556f97/avaasa_mix_n%27_match_grey_printed_round-neck_flared_kurta.jpg",
+      "brand": "AVAASA",
+      "nameCls": "Geometric Print Slim Kurta",
+      "price": "490",
+      "orginalPrice": "1,749",
+      "discount": "(72% off)"
+    },
+    {
+      "id": 28,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211005/hKPA/615c6353aeb2692b85ae5a40/dnmx_pink_minnie_mouse_print_crew-neck_sweatshirt.jpg",
+      "brand": "DNMX",
+      "nameCls": "Minnie Mouse Print Crew-Neck Sweatshirt",
+      "price": "300",
+      "orginalPrice": "599",
+      "discount": "(50% off)"
+    },
+    {
+      "id": 29,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220124/vqJK/61eead49f997dd662337a8d6/gulmohar_jaipur_navy_blue_floral_print_straight_kurta_set.jpg",
+      "brand": "GULMOHAR JAIPUR",
+      "nameCls": "Panelled Ankle-Length Kurta",
+      "price": "925",
+      "orginalPrice": "3,699",
+      "discount": "(75% off)"
+    },
+    {
+      "id": 30,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211012/GTga/61649835aeb2692b85cc1a0c/stylum_blue_floral_print_a-line_kurta_set.jpg",
+      "brand": "Stylum",
+      "nameCls": "Floral Print A-line Kurta Set",
+      "price": "945",
+      "orginalPrice": "2,100",
+      "discount": "(55% off)"
+    },
+    {
+      "id": 31,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210830/9KBP/612cfd5f7cdb8cb8240c7918/avaasa_mix_n%27_match_grey_printed_layered_a-line_kurta.jpg",
+      "brand": "AVAASA MIX N' MATCH",
+      "nameCls": "Printed Layered A-line Kurta",
+      "price": "735",
+      "orginalPrice": "1,499",
+      "discount": "(51% off)"
+    },
+    {
+      "id": 32,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220502/YvGC/626fec45f997dd03e28de718/clafoutis_black_sleeveless_v-neck_top.jpg",
+      "brand": "Clafoutis",
+      "nameCls": "Sleeveless V-neck Top",
+      "price": "420",
+      "orginalPrice": "999",
+      "discount": "(58% off)"
+    }
+  ]
+}

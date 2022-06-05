@@ -1,0 +1,270 @@
+.top {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.top>div {
+    width: 32%;
+}
+
+.top>div img {
+    width: 100%;
+    height: 100%;
+}
+
+.top button {
+    color: white;
+    background-color: black;
+    padding: 10px 30px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    border: 0px;
+    cursor: pointer;
+}
+
+.top button:hover {
+    background-color: rgb(141, 101, 179);
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* newArrival */
+
+
+.newArrival {
+    background: linear-gradient(to right, rgb(222, 196, 190), rgb(105, 115, 165));
+    height: 300px;
+    text-align: center;
+    line-height: 15px;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.newArrival h1 {
+    font-size: 60px;
+    letter-spacing: 0.5px;
+    margin-top: 40px;
+}
+
+.newArrival h2 {
+    letter-spacing: 0.5px;
+}
+
+.newArrival button {
+    color: white;
+    background-color: rgb(148, 69, 222);
+    padding: 10px 30px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    border: 0px;
+    cursor: pointer;
+}
+
+.newArrival button:hover {
+    background-color: black;
+}
+
+
+
+/* season */
+
+.seasonCollection {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    line-height: 20px;
+    margin: auto;
+    gap: 30px;
+    margin-top: 50px;
+    background-color: rgb(249, 249, 249);
+}
+
+.seasonCollection>div h1 {
+    font-size: 60px;
+    letter-spacing: 0.5px;
+}
+
+.seasonCollection img {
+    width: 340px;
+    height: 500px;
+}
+
+.seasonCollection button {
+    color: white;
+    background-color: black;
+    padding: 10px 30px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    border: 0px;
+    cursor: pointer;
+}
+
+.seasonCollection button:hover {
+    background-color: rgb(141, 101, 179);
+}
+
+
+
+/* accessories */
+
+.accessoriesTop h2 {
+    text-align: center;
+    letter-spacing: 0.5px;
+    margin-top: 80px;
+    line-height: 0px;
+}
+
+.accessories {
+    display: flex;
+    justify-content: space-between;
+}
+
+.accessories>div {
+    width: 50%;
+    margin: 25px;
+}
+
+.accessories>div img {
+    width: 100%;
+}
+
+.accessories>div button {
+    color: white;
+    background-color: black;
+    padding: 10px 30px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    border: 0px;
+    cursor: pointer;
+}
+
+.accessories>div button:hover {
+    background-color: rgb(141, 101, 179);
+}
+
+
+
+/* shoes */
+
+.shoes {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    line-height: 20px;
+    margin: auto;
+    gap: 30px;
+    margin-top: 50px;
+    background-color: rgb(249, 249, 249);
+}
+
+.shoes>div h1 {
+    font-size: 60px;
+    letter-spacing: 0.5px;
+}
+
+.shoes img {
+    width: 360px;
+    height: 500px;
+}
+
+.shoes button {
+    color: white;
+    background-color: black;
+    padding: 10px 30px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    border: 0px;
+    cursor: pointer;
+}
+
+.shoes button:hover {
+    background-color: rgb(141, 101, 179);
+}
+
+
+/* service */
+
+.serviceTop{
+    margin-top: 80px;
+    background-color: rgb(249, 249, 249);
+    text-align: center;
+    padding: 40px;
+}
+
+.serviceTop h2{
+    text-align: center;
+    letter-spacing: 0.5px;
+    line-height: 10px;
+}
+
+.serviceTop h2+p{
+    font-size: 12px;
+}
+
+.service{
+    width: 85%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    gap: 80px;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+.service p{
+    font-size: 17px;
+    letter-spacing: 0.5px;
+}
+
+.service p+p{
+    font-size: 15px;
+}
+
+
+
+/* newslater */
+
+.newslater{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.newslater h2 {
+    font-size: 25px;
+}
+
+.newslater input{
+    width: 300px;
+    padding: 15px;
+    border: 1px solid;
+}
+
+.newslater button{
+    padding: 16px;
+    color: white;
+    background-color: black;
+    letter-spacing: 0.5px; 
+    border: 0px;
+    margin-left: -4px;
+    cursor: pointer;
+}
+
+.newslater button:hover{
+    background-color: rgb(141, 101, 179);
+}

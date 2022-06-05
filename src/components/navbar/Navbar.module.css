@@ -1,0 +1,9 @@
+.weblogo{
+    width: 120px;
+    margin-right: 30px;
+}
+
+.navbarText {
+    display: flex;
+    gap: 15px;
+}

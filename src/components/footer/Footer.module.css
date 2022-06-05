@@ -1,0 +1,49 @@
+.topFooter {
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    color: white;
+    margin-top: 120px;
+    padding: 3%;
+}
+
+.topFooter div p {
+    font-size: 14px;
+    font-weight: lighter;
+    cursor: pointer;
+}
+
+.adress {
+    width: 30%;
+    line-height: 20px;
+}
+
+.footer {
+    width: 15%;
+}
+
+.icons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.bottomFooter {
+    background-color: black;
+    color: white;
+    height: 50px;
+    text-align: center;
+    border-top: 1px solid rgb(71, 70, 70);
+}
+
+.bottomFooter p {
+    font-size: 12px;
+    padding-top: 10px;
+    font-weight: lighter;
+    cursor: pointer;
+}
